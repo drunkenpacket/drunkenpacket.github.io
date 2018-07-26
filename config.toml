@@ -1,6 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
+pygmentsCodeFences = true
 
 # Specify a theme. Note that themes are specified via a git submodule.
 # The drunkenpacket theme github would go here.
