@@ -1,8 +1,8 @@
 ---
 title: "Going Left or Going Right"
 author: Rob
-date: 2008-03-17 13:00:00
-tags: [software,coding,lisp]
+date: 2006-06-24 13:00:00
+tags: [software,coding,lisp,statistics]
 ---
 
 # Background

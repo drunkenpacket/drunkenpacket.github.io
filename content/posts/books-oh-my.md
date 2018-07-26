@@ -2,6 +2,7 @@
 title: Books Oh My
 date: 2011-04-06 07:13:25
 author: Rob
+tags: [books]
 ---
 
 Friends have leant me an assortment of books. I have nice friends.

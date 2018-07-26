@@ -1,0 +1,23 @@
+/*
+	use this style for each of the highlight rectangles
+*/
+.hilite_rectangle {
+	position: absolute;
+	border-style: solid;
+	border-color: yellow;
+}
+
+/*
+	use this style for the list of divs.
+*/
+.hilite_image_map {
+	display: block;
+	position: relative;
+}
+
+
+.hilite_txt_target {
+	border-style: solid;
+	border-color: #F2E1B3;
+
+}
