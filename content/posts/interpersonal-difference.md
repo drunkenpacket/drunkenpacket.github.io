@@ -1,7 +1,7 @@
 ---
 title: Interpersonal Difference
 date: 2011-01-22 08:50:27
-tags: observation
+tags: [observation]
 ---
 
 The packet has over the last few weeks been busy trying to meet a
