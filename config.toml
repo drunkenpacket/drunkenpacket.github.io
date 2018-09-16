@@ -5,4 +5,16 @@ pygmentsCodeFences = true
 
 # Specify a theme. Note that themes are specified via a git submodule.
 # The drunkenpacket theme github would go here.
-theme = "ananke"
+theme = "hugo-theme-cactus-plus"
+
+# See themes/hugo-theme-cactus-plus/exampleSite/config.toml for
+# the complete list.
+[params]
+	author = "The Drunken Packet"
+	bio = "Stumbling through the internets"
+
+	enableRSS = true
+	enableToc = true
+
+	enableSummary = true
+	showLatestPosts = true
