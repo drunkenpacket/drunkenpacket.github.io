@@ -9,6 +9,7 @@ install:
 script:
   - hugo # This commands builds your website on travis
 
+# TODO(rjk): Get auth right.
 deploy:
   provider: gcs
   access_key_id: "GCS Interoperable Access Key ID"
