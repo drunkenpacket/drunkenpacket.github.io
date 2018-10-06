@@ -19,3 +19,7 @@ in Github. That's convenient. Articles are in `content/posts`.
 * From a checkout, use `hugo server -D` to render the site with `hugo`
 and have it auto-reload. Some changes don't seem to auto-reload. But
 Hugo is extremely fast so just kill it and run again if in doubt.
+
+# Building
+Update and push this and github will tell the server to deploy a new
+version of the server.
