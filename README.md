@@ -20,6 +20,9 @@ in Github. That's convenient. Articles are in `content/posts`.
 and have it auto-reload. Some changes don't seem to auto-reload. But
 Hugo is extremely fast so just kill it and run again if in doubt.
 
+* Because of how the blog is deployed, any commit here will force a rebuild
+of the blog.
+
 # Blog deployment
 Update and push this depot and github will tell the remote server (via
 a webhook) to deploy a new version to the server. The server rebuilds the
