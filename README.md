@@ -21,5 +21,5 @@ and have it auto-reload. Some changes don't seem to auto-reload. But
 Hugo is extremely fast so just kill it and run again if in doubt.
 
 # Building
-Update and push this and github will tell the server to deploy a new
-version of the server.
+Update and push this depot and github will tell the remote server (via
+a webhook) to deploy a new version to the server.
