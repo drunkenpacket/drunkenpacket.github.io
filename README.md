@@ -28,3 +28,6 @@ Update and push this depot and github will tell the remote server (via
 a webhook) to deploy a new version to the server. The server rebuilds the
 blog and serves it. By using a customized server, it's possible to create
 mashups, etc.
+
+# Ping
+Ping the server!
