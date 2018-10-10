@@ -30,4 +30,4 @@ blog and serves it. By using a customized server, it's possible to create
 mashups, etc.
 
 # Ping
-Ping the server!
+Ping the server! Again.
