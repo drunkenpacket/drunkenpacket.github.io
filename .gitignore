@@ -1,1 +1,3 @@
+# stuffs to ignore from git
 .DS_Store
+public
