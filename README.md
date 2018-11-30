@@ -30,4 +30,4 @@ blog and serves it. By using a customized server, it's possible to create
 mashups, etc.
 
 # Ping
-Ping the server: test submodules?
+Ping the server: test submodules again?
