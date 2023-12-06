@@ -20,7 +20,7 @@ playing with the machine, it was breathtaking.  I could not believe
 how far the machine gone to.  I felt like I had been living in a
 dark age.  And this was the light for the future.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1tQ5XwvjPmA?si=W2hiL7B0FON0AfvQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2B-XwPjn9YY?si=r88SCELnUY5290cX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Macintosh has created our future in some sense.  On the other hand,
 Macintosh is currently neither dominating PC market nor anything
